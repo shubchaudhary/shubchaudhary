@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="shubchaudhary" /> </p>
 
-- 🔭 I’m currently working on **Decentralised App**
+- 🔭 I’m currently working on **Flutter Development**
 
-- 🌱 I’m currently learning **Blockchain, NEXT.js, Web3, Python**
+- 🌱 I’m currently learning **Flutter, NEXT.js, Python**
 
-- 👯 I’m looking to collaborate on **Blockchain**
+- 👯 I’m looking to collaborate on **Web Development**
 
 - 💬 Ask me about **react.js, mongoDB, node.js, C++, Python**
 
